@@ -1,0 +1,16 @@
+# image data — fetched with download_wide.py, not version controlled
+fits/
+*.fits
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# editors / os
+.DS_Store
+.idea/
+.vscode/
+cursor/
